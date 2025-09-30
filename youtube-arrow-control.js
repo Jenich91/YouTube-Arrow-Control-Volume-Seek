@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         YouTube Arrow Control — Volume & Seek
 // @namespace    https://github.com/Jenich91/YouTube-Arrow-Control-Volume-Seek
-// @version      1.4
+// @version      1.0
 // @description  Надёжное управление YouTube через стрелки: ↑/↓ громкость, ←/→ перемотка с анимацией, Shift увеличивает шаг. Работает всегда, вне зависимости от фокуса. Анимация перемотки центрирована по видео.
 // @author       Jenich91
 // @license      MIT
